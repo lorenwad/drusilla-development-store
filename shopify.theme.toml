@@ -1,0 +1,3 @@
+[environments]
+[environments.development]
+store = "drusilla-development-store.myshopify.com"
